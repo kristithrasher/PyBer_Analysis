@@ -10,6 +10,8 @@ After completing the first assighnment I was asked to break down the analysis to
 
 
 ## Results 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/94208810/145644418-b1479d82-87d6-4ebb-8a9e-672248ad1ffa.png)
+
 
 There are some differences in ride-sharing data among the different city types. I will break down thesed differences by City Type.
   - Rural city types had the lowest fare prices out of the three city types. 
