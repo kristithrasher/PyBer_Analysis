@@ -20,6 +20,7 @@ The Lines on the graph represent each city type as referenced by the Legend.
 Y-axis represents Total Fares ($USD) while the X-axis represents each month(weekly) data was analyzed. Different colors were used to make it easier to differentiate how each city type performed. 
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/94208810/145682633-c4eb34df-b2e3-450b-a6f1-16135d5f64ac.png)
+![Pyber_fare_summary](https://user-images.githubusercontent.com/94208810/145682658-b2af4183-8d1e-4f71-894d-4ee85b49df89.png)
 
 
 There are some differences in ride-sharing data among the different city types. I will break down these differences by City Type.
