@@ -17,7 +17,7 @@ We see in this data frame how the fare is much higher in the Urban Cities vs Rur
 
 
 The Lines on the graph represent each city type as referenced by the Legend. 
-Y-axis represents Total Fares ($USD) while the X-axis represents each month data was analyzed. Different colors were used to make it easier to differentiate how each city type performed. 
+Y-axis represents Total Fares ($USD) while the X-axis represents each month(weekly) data was analyzed. Different colors were used to make it easier to differentiate how each city type performed. 
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/94208810/145644418-b1479d82-87d6-4ebb-8a9e-672248ad1ffa.png)
 
