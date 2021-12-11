@@ -31,5 +31,6 @@ There are some differences in ride-sharing data among the different city types. 
 
 ## Summary
 
-Based on the results I have three business recommendations to the CEO for addressing any disparities among the city types the first would be to increase the Urban city fare prices knowing because Urban has the highest percentage of rides, second, I would lower the fare prices in the rural areas to make it more affordable for people to use and finally I would recommend hiring more drivers in the rural and suburban areas 
+To summarize the data from this analysis we see in this data frame how the fare is much higher in the Urban Cities vs Rural Cities and Suburban Cities are somewhere int he middle.We should look to see what is cuasing the decrease in fares for the month of March. 
+Based on the results I have three business recommendations to the CEO for addressing any disparities among the city types the first would be to capitilize on and increase the Urban city fare prices knowing because Urban has the highest percentage of rides, second, I would lower the fare prices in the rural areas to make it more affordable for people to use and finally I would recommend hiring more drivers in the rural and suburban areas 
 
