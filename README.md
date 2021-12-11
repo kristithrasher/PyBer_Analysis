@@ -10,13 +10,15 @@ After completing the first assignment I was asked to break down the analysis to 
 
 ## Results 
 The folloing are some visulations that help see the data results more clearly first being a data frame showing fare for each weeek for specific city type. 
-![Pyber_fare_summary](https://user-images.githubusercontent.com/94208810/145644418-b1479d82-87d6-4ebb-8a9e-672248ad1ffa.png)
+
+![Screenshot (102)](https://user-images.githubusercontent.com/94208810/145681346-3c635546-4af6-4bc8-8978-3f16f93cebca.png)
+We see in this data frame how the fare is much higher in the Urban Cities vs Rural Cities and Suburban Cities are somewhere int he middle. 
+
 
 The Lines on the graph represent each city type as referenced by the Legend. 
 Y-axis represents Total Fares ($USD) while the X-axis represents each month data was analyzed. Different colors were used to make it easier to differentiate how each city type performed. 
 
-![Screenshot (102)](https://user-images.githubusercontent.com/94208810/145681346-3c635546-4af6-4bc8-8978-3f16f93cebca.png)
-We see in this data frame how the fare is much higher in the Urban Cities vs Rural Cities and Suburban Cities are somewhere int he middle. 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/94208810/145644418-b1479d82-87d6-4ebb-8a9e-672248ad1ffa.png)
 
 There are some differences in ride-sharing data among the different city types. I will break down these differences by City Type.
   - Rural city types had the lowest fare prices out of the three city types. 
