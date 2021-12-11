@@ -12,6 +12,7 @@ After completing the first assignment I was asked to break down the analysis to 
 The folloing are some visulations that help see the data results more clearly first being a data frame showing fare for each weeek for specific city type. 
 
 ![Screenshot (102)](https://user-images.githubusercontent.com/94208810/145681346-3c635546-4af6-4bc8-8978-3f16f93cebca.png)
+
 We see in this data frame how the fare is much higher in the Urban Cities vs Rural Cities and Suburban Cities are somewhere int he middle. 
 
 
