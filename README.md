@@ -27,6 +27,7 @@ Y-axis represents Total Fares ($USD) while the X-axis represents each month(week
 
 ### Description of the differences in ride-sharing data amoung each city type. 
 
+
 - Urban
     Total Rides: Urban hhas the highest amount of rides with suburban next and rural coming in last. 
     Total Fares: Had the most fares in comparison with Suburban and Rural. 
